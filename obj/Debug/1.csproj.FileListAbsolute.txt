@@ -1,0 +1,7 @@
+C:\Users\Lemur\source\repos\ZadachiDenchik\1\bin\Debug\1.exe.config
+C:\Users\Lemur\source\repos\ZadachiDenchik\1\bin\Debug\1.exe
+C:\Users\Lemur\source\repos\ZadachiDenchik\1\bin\Debug\1.pdb
+C:\Users\Lemur\source\repos\ZadachiDenchik\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\Lemur\source\repos\ZadachiDenchik\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Lemur\source\repos\ZadachiDenchik\1\obj\Debug\1.exe
+C:\Users\Lemur\source\repos\ZadachiDenchik\1\obj\Debug\1.pdb
